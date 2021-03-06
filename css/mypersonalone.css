@@ -1,0 +1,155 @@
+.wrapper{
+    width: 80%;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(77, 134, 240);
+}
+.topnav{
+    padding: 20px 0px 20px 0px;
+    overflow: hidden;
+    background: cornflowerblue;
+    margin-bottom: 50px;
+    border-radius: 10px 10px 0px 0px;
+}
+.yahome{
+    list-style-type: none;
+    float: left
+}
+.onav{
+    float: right;
+    font-size: 15PX;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+
+}
+.maintext{
+    padding: 20px 0px;
+}
+.text1{
+    font-size: 50px;
+    text-align: center;
+    padding-bottom: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.text2{
+    width: 400px;
+    font-size: 18px;
+    text-align: center;
+    display: block;
+    margin: auto;
+    padding-bottom: 50px;
+    color: cornflowerblue;
+    letter-spacing: 1.5px;
+    line-height: 2;
+    
+}
+.myimage{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background: cornflowerblue;
+    border-radius: 50%;
+    border: solid 5px cornflowerblue;
+    
+}
+h2{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 0px;
+    font-size: 30px;
+    letter-spacing: 2px;   
+}
+h3{
+    margin-top: auto;
+    letter-spacing: 1.5px;
+    line-height: 2;
+    
+}
+.design-img{
+    width: 15%;
+    float: left;
+    margin-right: 30px;
+    display: block;
+    margin-bottom: 20px;
+}
+.develop-img{
+    width: 15%;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    display: block;
+}
+ .HML-img{
+    width: 14%;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    display: block;
+ }   
+.skill-row{
+    float: left;
+    letter-spacing: 1.5px;
+    line-height: 2;
+
+}
+hr {
+    border: 6px dotted rgb(136, 172, 238);
+    border-bottom: none;
+    width: 5%;
+    margin: 80px auto 70px auto;
+    display: block;
+}
+.tdefi{
+    text-align: center;
+    padding-bottom: 30px;
+    letter-spacing: 1.5px;
+}
+.contactme{
+    text-align: center;
+    padding-bottom: 40px;
+    ;
+    
+    
+}
+.button{
+    background: rgb(86, 139, 236);
+    padding: 12px 15px;
+    font-size: 20px;
+    text-decoration: none;
+    color: whitesmoke;
+    border-radius: 10px 10px;
+}
+.skills{
+    overflow: hidden;
+}
+.footnav{
+    text-align: center;
+}
+nav a{
+    padding: 0px 15px 0px 15px;
+    text-decoration: none;
+    letter-spacing: 1.5px;
+    color: black;
+}
+.rights{
+    text-align: center;
+    font-size: small;
+    color: white;
+}
+footer{
+    background: cornflowerblue;
+    padding: 50px 0px;
+    margin-top: 30px;
+    display: block;
+    border-radius: 0px 0px 15px 15px;
+}
